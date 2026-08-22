@@ -7,12 +7,18 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rituraj0901/leetcodequestions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rituraj0901/leetcodequestions/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rituraj0901/leetcodequestions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rituraj0901/leetcodequestions/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rituraj0901/leetcodequestions/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rituraj0901/leetcodequestions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
