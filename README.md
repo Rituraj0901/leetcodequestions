@@ -8,6 +8,7 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rituraj0901/leetcodequestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rituraj0901/leetcodequestions/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Rituraj0901/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rituraj0901/leetcodequestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rituraj0901/leetcodequestions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Rituraj0901/leetcodequestions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -33,4 +34,12 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rituraj0901/leetcodequestions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Rituraj0901/leetcodequestions/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rituraj0901/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rituraj0901/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
