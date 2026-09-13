@@ -11,6 +11,7 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 | [0303-range-sum-query-immutable](https://github.com/Rituraj0901/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rituraj0901/leetcodequestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rituraj0901/leetcodequestions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2256-minimum-average-difference](https://github.com/Rituraj0901/leetcodequestions/tree/master/2256-minimum-average-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Rituraj0901/leetcodequestions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Hash Table
 |  |
@@ -42,4 +43,5 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rituraj0901/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
+| [2256-minimum-average-difference](https://github.com/Rituraj0901/leetcodequestions/tree/master/2256-minimum-average-difference) |
 <!---LeetCode Topics End-->
