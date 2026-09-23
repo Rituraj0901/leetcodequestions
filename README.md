@@ -10,6 +10,7 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 | [0219-contains-duplicate-ii](https://github.com/Rituraj0901/leetcodequestions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Rituraj0901/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Rituraj0901/leetcodequestions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Rituraj0901/leetcodequestions/tree/master/1652-defuse-the-bomb) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rituraj0901/leetcodequestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rituraj0901/leetcodequestions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2256-minimum-average-difference](https://github.com/Rituraj0901/leetcodequestions/tree/master/2256-minimum-average-difference) |
@@ -33,6 +34,7 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rituraj0901/leetcodequestions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Rituraj0901/leetcodequestions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Rituraj0901/leetcodequestions/tree/master/1652-defuse-the-bomb) |
 ## Counting
 |  |
 | ------- |
