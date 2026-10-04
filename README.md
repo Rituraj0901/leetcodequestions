@@ -60,4 +60,12 @@ A collection of my LeetCode solutions implemented in Java, covering Data Structu
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Rituraj0901/leetcodequestions/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Rituraj0901/leetcodequestions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Rituraj0901/leetcodequestions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
